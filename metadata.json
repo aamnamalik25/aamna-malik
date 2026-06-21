@@ -1,0 +1,10 @@
+{
+  "name": "Furrfectly",
+  "description": "An advanced AI-powered pet translation platform that decodes body language, facial expressions, and situational cues.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
